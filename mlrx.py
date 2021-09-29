@@ -50,5 +50,3 @@ def mlr(X, y):
     
     beta = np.matmul(beta, y)
     return beta
-def mul(a, b):
-    if 
